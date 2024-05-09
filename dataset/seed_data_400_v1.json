@@ -1,0 +1,2409 @@
+[
+    {
+        "id": 1,
+        "EnglishEquivalent": "Good morning.",
+        "RussianEnglishEquivalent": "Dobre utro.",
+        "RussianEquivalent": "?"
+    },
+    {
+        "id": 2,
+        "EnglishEquivalent": "Good afternoon.",
+        "RussianEnglishEquivalent": "Dobryj den'",
+        "RussianEquivalent": "?"
+    },
+    {
+        "id": 3,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "Good evening.",
+        "RussianEquivalent": "Dobryj vecher."
+    },
+    {
+        "id": 4,
+        "EnglishEquivalent": "Good night",
+        "RussianEnglishEquivalent": "Good night.",
+        "RussianEquivalent": "Spokojnoj nochi."
+    },
+    {
+        "id": 5,
+        "EnglishEquivalent": "Goodbye.",
+        "RussianEnglishEquivalent": "Do svidanija.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 6,
+        "EnglishEquivalent": "See you soon",
+        "RussianEnglishEquivalent": "Do skorogo.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 7,
+        "EnglishEquivalent": "See you later.",
+        "RussianEnglishEquivalent": "Do svidanija.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 8,
+        "EnglishEquivalent": "See you tomorrow.",
+        "RussianEnglishEquivalent": "Uvidimsja zavtra.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 9,
+        "EnglishEquivalent": "Hello",
+        "RussianEnglishEquivalent": "Privet.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 10,
+        "EnglishEquivalent": "How are you?",
+        "RussianEnglishEquivalent": "Kak dela?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 11,
+        "EnglishEquivalent": "I'm fine.",
+        "RussianEnglishEquivalent": "Ja v porjadke.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 12,
+        "EnglishEquivalent": "See you tomorrow.",
+        "RussianEnglishEquivalent": "Uvidimsja zavtra.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 14,
+        "EnglishEquivalent": "Thank you.",
+        "RussianEnglishEquivalent": "Spasibo.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 14,
+        "EnglishEquivalent": "And you?",
+        "RussianEnglishEquivalent": "A u tebja?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 15,
+        "EnglishEquivalent": "You're welcome.",
+        "RussianEnglishEquivalent": "Pozhalujsta.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 16,
+        "EnglishEquivalent": "Nice to meet you.",
+        "RussianEnglishEquivalent": "Prijatno poznakomit'sja.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 17,
+        "EnglishEquivalent": "What's your name?",
+        "RussianEnglishEquivalent": "Menja zovut...",
+        "RussianEquivalent": ""
+    },
+   
+    {
+        "id": 18,
+        "EnglishEquivalent": "I miss you",
+        "RussianEnglishEquivalent": "Ja skuchanju po tebe",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 19,
+        "EnglishEquivalent": "I miss you.",
+        "RussianEnglishEquivalent": "Ja skuchaju po tebe",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 20,
+        "EnglishEquivalent": "Me too.",
+        "RussianEnglishEquivalent": "Ja tozhe",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 21,
+        "EnglishEquivalent": "What are you doing?",
+        "RussianEnglishEquivalent": "Chto ty delaesh'?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 22,
+        "EnglishEquivalent": "Nothing.",
+        "RussianEnglishEquivalent": "Nichergo.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 23,
+        "EnglishEquivalent": "Yes.",
+        "RussianEnglishEquivalent": "Da.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 24,
+        "EnglishEquivalent": "No.",
+        "RussianEnglishEquivalent": "Net.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 25,
+        "EnglishEquivalent": "Are you busy?",
+        "RussianEnglishEquivalent": "Vy zanjaty?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 26,
+        "EnglishEquivalent": "Yes I'm busy.",
+        "RussianEnglishEquivalent": "Da, ja zanjat",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 27,
+        "EnglishEquivalent": "Are you free?",
+        "RussianEnglishEquivalent": "Vy svobodny?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 28,
+        "EnglishEquivalent": "Yes, I'm free",
+        "RussianEnglishEquivalent": "Da, ja svoboden",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 29,
+        "EnglishEquivalent": "I'm hungry",
+        "RussianEnglishEquivalent": "Ja goloden.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 30,
+        "EnglishEquivalent": "I'm thirsty.",
+        "RussianEnglishEquivalent": "Ja hochu pit'",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 31,
+        "EnglishEquivalent": "Let's eat.",
+        "RussianEnglishEquivalent": "Davajte poedim.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 32,
+        "EnglishEquivalent": "It's delicious.",
+        "RussianEnglishEquivalent": "Jeto vkusno.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 33,
+        "EnglishEquivalent": "It's delicious.",
+        "RussianEnglishEquivalent": "Jeto vkusno.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 34,
+        "EnglishEquivalent": "I want more.",
+        "RussianEnglishEquivalent": "Ja hochu eshhjo.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 35,
+        "EnglishEquivalent": "I want less.",
+        "RussianEnglishEquivalent": "Ja hochu men'she.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 36,
+        "EnglishEquivalent": "It's fine",
+        "RussianEnglishEquivalent": "Vsjo v porjadke.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 37,
+        "EnglishEquivalent": "Thanks for the food",
+        "RussianEnglishEquivalent": "Spasibo za edu.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 38,
+        "EnglishEquivalent": "Thanks for the food.",
+        "RussianEnglishEquivalent": "Gde vy zhivjote?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 39,
+        "EnglishEquivalent": "Where do you live?",
+        "RussianEnglishEquivalent": "Gde vy zhivjote?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 40,
+        "EnglishEquivalent": "What are you studying?",
+        "RussianEnglishEquivalent": "Chto vy izuchaete?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 41,
+        "EnglishEquivalent": "Hows's your family?",
+        "RussianEnglishEquivalent": "Kak vasha sem'ja?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 42,
+        "EnglishEquivalent": "Very good.",
+        "RussianEnglishEquivalent": "Ochen' horosho.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 43,
+        "EnglishEquivalent": "Very bad.",
+        "RussianEnglishEquivalent": "Ochen' ploho.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 44,
+        "EnglishEquivalent": "Kakoj u vas nomer telefona?",
+        "RussianEnglishEquivalent": "What's your phone number?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 45,
+        "EnglishEquivalent": "Pozvonite mne.",
+        "RussianEnglishEquivalent": "Call me.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 46,
+        "EnglishEquivalent": "I'll call you",
+        "RussianEnglishEquivalent": "Ja vam pozvonju.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 47,
+        "EnglishEquivalent": "Call me.",
+        "RussianEnglishEquivalent": "Pozvonite mne.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 48,
+        "EnglishEquivalent": "I'll call you.",
+        "RussianEnglishEquivalent": "Ja vam pozvonju.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 49,
+        "EnglishEquivalent": "Kak proshjol vash den'?",
+        "RussianEnglishEquivalent": "How was your day?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 50,
+        "EnglishEquivalent": "My day was good.",
+        "RussianEnglishEquivalent": "U menja byl horoshij den'",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 51,
+        "EnglishEquivalent": "Morning.",
+        "RussianEnglishEquivalent": "U menja byl plohoj den",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 52,
+        "EnglishEquivalent": "Afternoon.",
+        "RussianEnglishEquivalent": "Den'",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 53,
+        "EnglishEquivalent": "Evening.",
+        "RussianEnglishEquivalent": "Vecher.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 54,
+        "EnglishEquivalent": "Night!",
+        "RussianEnglishEquivalent": "Noch'",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 55,
+        "EnglishEquivalent": "Rano.",
+        "RussianEnglishEquivalent": "Early",
+        "RussianEquivalent": "TODO!"
+    },
+    {
+        "id": 56,
+        "EnglishEquivalent": "Evening.",
+        "RussianEnglishEquivalent": "Vecher.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 57,
+        "EnglishEquivalent": "Night.",
+        "RussianEnglishEquivalent": "Noch'",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 58,
+        "EnglishEquivalent": "Early.",
+        "RussianEnglishEquivalent": "Rano.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 59,
+        "EnglishEquivalent": "Late.",
+        "RussianEnglishEquivalent": "Pozdno.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 60,
+        "EnglishEquivalent": "I arrived early.",
+        "RussianEnglishEquivalent": "Ja priehal rano,",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 61,
+        "EnglishEquivalent": "I arrived early.",
+        "RussianEnglishEquivalent": "Ja priehal rano.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 62,
+        "EnglishEquivalent": "I arrived late.",
+        "RussianEnglishEquivalent": "Ja opozdal.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 63,
+        "EnglishEquivalent": "May I help you?",
+        "RussianEnglishEquivalent": "Ja mogu vam chem-nibud' pomoch'?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 64,
+        "EnglishEquivalent": "Can you help me?",
+        "RussianEnglishEquivalent": "Vy mozhete mne pomoch'?",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 65,
+        "EnglishEquivalent": "I'll help you",
+        "RussianEnglishEquivalent": "Ja pomogu vam.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 66,
+        "EnglishEquivalent": "Da, pozhalujsta",
+        "RussianEnglishEquivalent": "Yes, please",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 67,
+        "EnglishEquivalent": "No, thanks.",
+        "RussianEnglishEquivalent": "Net, spasibo",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 68,
+        "EnglishEquivalent": "Thanks for your help.",
+        "RussianEnglishEquivalent": "Spasibo za vashu pomoshh'",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 69,
+        "EnglishEquivalent": "What are you thinking about?",
+        "RussianEnglishEquivalent": "N/A",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 70,
+        "EnglishEquivalent": "I'm tired",
+        "RussianEnglishEquivalent": "Ja ustal.  ",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 71,
+        "EnglishEquivalent": "I'm tired",
+        "RussianEnglishEquivalent": "Ja ustal.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 72,
+        "EnglishEquivalent": "I'm sleepy",
+        "RussianEnglishEquivalent": "Ja hochu spat'",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 73,
+        "EnglishEquivalent": "I'm going to sleep",
+        "RussianEnglishEquivalent": "Ja Lozhus' spat'.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 74,
+        "EnglishEquivalent": "I have homework.",
+        "RussianEnglishEquivalent": "U menja est' domashnee zadanie.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 75,
+        "EnglishEquivalent": "It's easy",
+        "RussianEnglishEquivalent": "Jeto prosto.",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 76,
+        "EnglishEquivalent": "It",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 77,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 78,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 79,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 80,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 81,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 82,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 83,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 84,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 85,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 86,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 87,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 87,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 88,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 89,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 90,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 91,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 92,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 93,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 94,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 95,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 96,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 97,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 98,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 99,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 100,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 101,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 102,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 103,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 104,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 105,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 106,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 107,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 108,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 109,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 110,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 111,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 112,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 113,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 114,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 115,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 116,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 117,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 118,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 119,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 120,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 121,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 122,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 123,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 124,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 125,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 126,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 127,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 128,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 129,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 130,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 131,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 132,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 133,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 134,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 135,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 136,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 137,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 138,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 139,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 140,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 141,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 142,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 143,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 144,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 145,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 146,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 147,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 148,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 149,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 150,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 151,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 152,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 153,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 154,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 155,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 156,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 157,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 158,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 159,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 160,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 161,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 162,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 163,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 164,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 165,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 166,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 167,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 168,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 169,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 170,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 171,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 172,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 173,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 174,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 175,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 176,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 177,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 178,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 179,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 180,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 181,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 182,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 183,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 184,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 185,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 186,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 187,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 188,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 189,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 190,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 191,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 192,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 193,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 194,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 195,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 196,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 197,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 198,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 199,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 200,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 201,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 202,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 203,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 204,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 205,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 206,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 207,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 208,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 209,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 210,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 211,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 212,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 213,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 214,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 215,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 216,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 217,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 218,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 219,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 220,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 221,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 222,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 223,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 224,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 225,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 226,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 227,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 228,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 229,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 230,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 231,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 232,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 233,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 234,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 235,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 236,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 237,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 238,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 239,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 240,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 241,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 242,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 243,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 244,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 245,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 246,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 247,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 248,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 249,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 250,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 251,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 252,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 253,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 254,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 255,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 256,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 257,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 258,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 259,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 260,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 261,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 262,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 263,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 264,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 265,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 266,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 267,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 268,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 269,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 270,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 271,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 272,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 273,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 274,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 275,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 276,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 277,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 278,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 279,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 280,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 281,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 282,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 283,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 284,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 285,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 286,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 287,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 288,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 289,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 290,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 291,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 292,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 293,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 294,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 295,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 296,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 297,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 298,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 299,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 300,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 301,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 302,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 303,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 304,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 305,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 306,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 307,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 308,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 309,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 310,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 311,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 312,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 313,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 314,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 315,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 316,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 317,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 318,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 319,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 320,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 321,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 322,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 323,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 324,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 325,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 326,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 327,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 328,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 329,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 330,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 331,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 332,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 333,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 334,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 335,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 336,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 337,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 338,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 339,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 340,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 341,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 342,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 343,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 344,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 345,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 346,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 347,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 348,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 349,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 350,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 351,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 352,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 353,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 354,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 355,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 356,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 357,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 358,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 359,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 360,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 361,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 362,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 363,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 364,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 365,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 366,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 367,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 368,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 369,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 370,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 371,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 372,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 373,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 374,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 375,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 376,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 377,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 378,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 379,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 380,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 381,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 382,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 383,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 384,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 385,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 386,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 387,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 388,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 389,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 390,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 391,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 392,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 393,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 394,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 395,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 396,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 397,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 398,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 399,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    },
+    {
+        "id": 400,
+        "EnglishEquivalent": "",
+        "RussianEnglishEquivalent": "",
+        "RussianEquivalent": ""
+    }
+]
